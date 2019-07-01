@@ -17,7 +17,7 @@ const IndexPage = ({ data, pathContext }) => {
 
       <div className="home-template">
 
-        <Header image='https://image.vtcns.com/files/f1/2016/05/28/co-dau-8-tuoi-thoi-thieu-nu-vua-tu-tu-la-ai-0.jpg' title="Tiên Nữ" tagline="Chăm sóc sắc đẹp.." />
+        <Header image='https://cdn.phunuvagiadinh.vn/uyenngoc/con-giap-11-03-1567234.jpg' title="Tiên Nữ" tagline="Chăm sóc sắc đẹp.." />
       
         <main id="site-main" className="site-main outer" role="main">
 
