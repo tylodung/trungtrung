@@ -6,7 +6,7 @@ image: 'https://i.ytimg.com/vi/dXQpAg2lSqY/maxresdefault.jpg'
 tags:
   - Lam dep
 uev: 4.18.3
-date: 2019-06-23T13:12:33.962Z
+date: 2019-07-06T13:12:33.962Z
 description:
  
 ---
@@ -22,7 +22,7 @@ Cao Hương Giang, cô nàng sinh viên 20 tuổi đã áp dụng chế độ ă
 
 Nhìn thực đơn thì có vẻ cầu kỳ phức tạp nhưng thực tế chính "khổ chủ" cũng chia sẻ mỗi món cô làm chỉ mất khoảng 5 - 10 phút là xong. Cùng với chế độ ăn Eat Clean, Hương Giang cũng hạn chế tối đa tinh bột trong thực đơn của mình.
 
-Thứ 2
+**Thứ 2**
 
 * Sáng: 1 lát bánh mỳ đen, sữa hạt, 1/2 trái táo
 
@@ -31,7 +31,7 @@ Thứ 2
 * Tối: Salad thăn bò
 
 
-Thứ 3
+**Thứ 3**
 
 *Sáng: Pancake yến mạch ăn kèm 1 hộp sữa chua không đường.
 
@@ -40,7 +40,7 @@ Thứ 3
 * Tối: Green smoothie
 
 
-Thứ 4
+**Thứ 4**
 
 * Sáng: Cháo yến mạch
 
@@ -49,7 +49,7 @@ Thứ 4
 * Tối: Salad rau mầm
 
 
-Thứ 5
+**Thứ 5**
 
 *Sáng: 1 củ khoai, 1 quả trứng luộc, trái cây
 
@@ -58,7 +58,7 @@ Thứ 5
 * Tối: 1 hộp sữa chua không đường, hoa quả
 
 
-Thứ 6
+**Thứ 6**
 
 * Sáng: Overnight oats (yến mạch để qua đêm), 1 hộp sữa chua không đường, hạt chia thêm topping hoa quả tùy ý.
 
@@ -67,7 +67,7 @@ Thứ 6
 * Tối: Green smoothie
 
 
-Thứ 7
+**Thứ 7**
 
 * Sáng: Bánh mỳ đen, 1/4 trái bơ, 1/2 trái táo, 1 quả trứng chiên không dầu
 
@@ -76,7 +76,7 @@ Thứ 7
 * Tối: Sữa chua không đường, hoa quả
 
 
-Chủ nhật
+**Chủ nhật**
 
 * Sáng: Yến mạch, topping 1/2 trái chuối, 1 trái kiwi, 2 thanh chocolate
 
