@@ -6,7 +6,7 @@ image: 'https://i.ytimg.com/vi/MwRj9on37UI/maxresdefault.jpg'
 tags:
   - Lam dep
 uev: 4.18.3
-date: 2019-06-24T13:12:33.962Z
+date: 2019-07-09T13:12:33.962Z
 description:
 
 ---
@@ -26,37 +26,33 @@ Sữa chua có chứa Acid Lactic làm giảm mụn và làm mịn làn da thô 
 *Nguyên liệu cần thiết:*
 
 
-Dâu tây
+Dâu tây;
 
-Sữa chua không đường
+Sữa chua không đường;
 
-Nước chanh
+Nước chanh;
 
-Mật ong
+Mật ong;
 
-Một con dao
+Một con dao;
 
-Một cái dĩa
+Một cái dĩa;
 
-Cốc và thìa đong
+Cốc và thìa đong.
 
 **Các bước thực hiện:**
 
 1. Cắt 4-5 dâu tây tươi thành từng miếng và nghiền nát chúng bằng một cái dĩa.
 
-Cach lam mat na dau tay; cach lam mat na cho da
 
 2. Cho ¼ chén dâu tây nghiền vào một cái bát.
 
-Cach lam mat na dau tay; cach lam mat na cho da
 
 3. Thêm 1 muỗng canh nước cốt chanh tươi vắt vào nó.
 
-Cach lam mat na dau tay; cach lam mat na cho da
 
 4. Thêm 1 muỗng canh sữa chua.
 
-Cach lam mat na dau tay; cach lam mat na cho da
 
 5. Trộn 1 muỗng canh mật ong.
 
