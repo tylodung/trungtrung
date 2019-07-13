@@ -6,7 +6,7 @@ image: 'https://www.elle.vn/wp-content/uploads/2018/06/20/dau-duong-da-mat-7.jpg
 tags:
   - Lam dep
 uev: 4.18.3
-date: 2019-06-24T13:12:33.962Z
+date: 2019-07-13T13:12:33.962Z
 description:
  
 ---
@@ -14,7 +14,6 @@ description:
 
 Việc thay đổi cùng lúc quá nhiều sản phẩm dưỡng chính là sai lầm khiến làn da của bạn dù chăm mãi vẫn khó mà đẹp lên.
 
-![ten buc hinh](http://beautyworld.net.vn/wp-content/uploads/2019/04/wp2153262.jpg "ten buc hinh")
 
 Chu trình dưỡng da 10 bước kiểu Hàn đang ngày càng trở nên phổ biến và được nhiều người học hỏi theo vì hứa hẹn đem lại làn da mềm mại, căng bóng như những cô nàng xứ Kim chi. Tuy nhiên có một sai lầm phổ biến khiến bạn dù học hỏi y hệt chu trình dưỡng của họ nhưng vẫn không thể có làn da đẹp, đó là: dùng quá nhiều sản phẩm mới.
 
